@@ -8,26 +8,32 @@ Small, sharp tools that work on first contact. Terminal AI agents, browser autom
 
 ### featured
 
-<a href="https://github.com/loak7993-code/termagent">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=loak7993-code&repo=termagent&theme=transparent&hide_border=true&title_color=e6edf3&icon_color=3b82f6&text_color=9198a1&bg_color=0d1117" alt="termagent">
-</a>
-<a href="https://github.com/loak7993-code/velox">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=loak7993-code&repo=velox&theme=transparent&hide_border=true&title_color=e6edf3&icon_color=3b82f6&text_color=9198a1&bg_color=0d1117" alt="velox">
-</a>
-<br>
-<a href="https://github.com/loak7993-code/litebox">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=loak7993-code&repo=litebox&theme=transparent&hide_border=true&title_color=e6edf3&icon_color=3b82f6&text_color=9198a1&bg_color=0d1117" alt="litebox">
-</a>
-<a href="https://github.com/loak7993-code/fang">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=loak7993-code&repo=fang&theme=transparent&hide_border=true&title_color=e6edf3&icon_color=3b82f6&text_color=9198a1&bg_color=0d1117" alt="fang">
-</a>
-<br>
-<a href="https://github.com/loak7993-code/basalt">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=loak7993-code&repo=basalt&theme=transparent&hide_border=true&title_color=e6edf3&icon_color=3b82f6&text_color=9198a1&bg_color=0d1117" alt="basalt">
-</a>
-<a href="https://github.com/loak7993-code/lockin">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=loak7993-code&repo=lockin&theme=transparent&hide_border=true&title_color=e6edf3&icon_color=3b82f6&text_color=9198a1&bg_color=0d1117" alt="lockin">
-</a>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/loak7993-code/termagent"><img src="assets/card-termagent.svg" alt="termagent"></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/loak7993-code/velox"><img src="assets/card-velox.svg" alt="velox"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/loak7993-code/litebox"><img src="assets/card-litebox.svg" alt="litebox"></a>
+    </td>
+    <td>
+      <a href="https://github.com/loak7993-code/fang"><img src="assets/card-fang.svg" alt="fang"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/loak7993-code/basalt"><img src="assets/card-basalt.svg" alt="basalt"></a>
+    </td>
+    <td>
+      <a href="https://github.com/loak7993-code/lockin"><img src="assets/card-lockin.svg" alt="lockin"></a>
+    </td>
+  </tr>
+</table>
 
 ### the rest of the toolbox
 
@@ -47,9 +53,8 @@ Small, sharp tools that work on first contact. Terminal AI agents, browser autom
 
 ### numbers
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=loak7993-code&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e6edf3&icon_color=3b82f6&text_color=9198a1&ring_color=3b82f6" alt="github stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loak7993-code&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=3b82f6&text_color=9198a1" alt="top languages">
+<p align="center">
+  <img src="assets/stats.svg" alt="88 releases shipped across 18 original repos in 8 languages" width="100%">
 </p>
 
 ### find me

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="465" height="170" viewBox="0 0 465 170" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+  <rect width="465" height="170" rx="12" fill="#161B22"/>
+  <text x="28" y="48" font-size="21" font-weight="700" fill="#E6EDF3" letter-spacing="-0.3">fang</text>
+  <circle cx="437" cy="42" r="4" fill="#3B82F6"/>
+  <text x="28" y="70" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, monospace" font-size="12" fill="#9198A1">Rust</text>
+  <text x="28" y="90" font-size="14" fill="#9198A1">Python&#x27;s flexibility, C&#x27;s speed. Native code through</text><text x="28" y="110" font-size="14" fill="#9198A1">C: servers, TUIs, emulators, kernels. Learn ...</text>
+  <g transform="translate(28,136)">
+    <svg width="15" height="15" viewBox="0 0 256 256"><path d="M243,96a20.33,20.33,0,0,0-17.74-14l-56.59-4.57L146.83,24.62a20.36,20.36,0,0,0-37.66,0L87.35,77.44,30.76,82A20.45,20.45,0,0,0,19.1,117.88l43.18,37.24-13.2,55.7A20.37,20.37,0,0,0,79.57,233L128,203.19,176.43,233a20.39,20.39,0,0,0,30.49-22.15l-13.2-55.7,43.18-37.24A20.43,20.43,0,0,0,243,96ZM172.53,141.7a12,12,0,0,0-3.84,11.86L181.58,208l-47.29-29.08a12,12,0,0,0-12.58,0L74.42,208l12.89-54.4a12,12,0,0,0-3.84-11.86L41.2,105.24l55.4-4.47a12,12,0,0,0,10.13-7.38L128,41.89l21.27,51.5a12,12,0,0,0,10.13,7.38l55.4,4.47Z" fill="#3B82F6"/></svg>
+    <text x="22" y="13" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, monospace" font-size="13" fill="#E6EDF3">0</text>
+  </g>
+  <g transform="translate(92,136)">
+    <svg width="15" height="15" viewBox="0 0 256 256"><path d="M228,64a36,36,0,1,0-48,33.94V112a4,4,0,0,1-4,4H80a4,4,0,0,1-4-4V97.94a36,36,0,1,0-24,0V112a28,28,0,0,0,28,28h36v18.06a36,36,0,1,0,24,0V140h36a28,28,0,0,0,28-28V97.94A36.07,36.07,0,0,0,228,64ZM64,52A12,12,0,1,1,52,64,12,12,0,0,1,64,52Zm64,152a12,12,0,1,1,12-12A12,12,0,0,1,128,204ZM192,76a12,12,0,1,1,12-12A12,12,0,0,1,192,76Z" fill="#9198A1"/></svg>
+    <text x="22" y="13" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, monospace" font-size="13" fill="#E6EDF3">0</text>
+  </g>
+</svg>

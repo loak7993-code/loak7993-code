@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="176" viewBox="0 0 960 176" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+  <rect width="960" height="176" rx="12" fill="#161B22"/>
+  <text x="28" y="38" font-size="13" fill="#9198A1">what 18 public repos add up to</text>
+  <g font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, monospace">
+    <text x="28" y="82" font-size="34" font-weight="700" fill="#E6EDF3">88</text>
+    <text x="28" y="104" font-size="12" fill="#9198A1">releases shipped</text>
+    <text x="190" y="82" font-size="34" font-weight="700" fill="#E6EDF3">18</text>
+    <text x="190" y="104" font-size="12" fill="#9198A1">original repos</text>
+    <text x="345" y="82" font-size="34" font-weight="700" fill="#E6EDF3">8</text>
+    <text x="345" y="104" font-size="12" fill="#9198A1">stars</text>
+    <text x="465" y="82" font-size="34" font-weight="700" fill="#E6EDF3">8</text>
+    <text x="465" y="104" font-size="12" fill="#9198A1">languages</text>
+  </g>
+  <g transform="translate(28,126)">
+    <rect x="0.0" y="0" width="251.1" height="8" rx="4" fill="#3B82F6" fill-opacity="1.0"/><rect x="251.1" y="0" width="200.9" height="8" rx="4" fill="#3B82F6" fill-opacity="0.75"/><rect x="452.0" y="0" width="150.7" height="8" rx="4" fill="#3B82F6" fill-opacity="0.55"/><rect x="602.7" y="0" width="100.4" height="8" rx="4" fill="#3B82F6" fill-opacity="0.42"/><rect x="703.1" y="0" width="50.2" height="8" rx="4" fill="#3B82F6" fill-opacity="0.32"/><rect x="753.3" y="0" width="50.2" height="8" rx="4" fill="#3B82F6" fill-opacity="0.24"/><rect x="803.6" y="0" width="50.2" height="8" rx="4" fill="#3B82F6" fill-opacity="0.18"/><rect x="853.8" y="0" width="50.2" height="8" rx="4" fill="#3B82F6" fill-opacity="0.14"/>
+  </g>
+  <g transform="translate(28,158)">
+    <text x="0" y="0" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, monospace" font-size="12" fill="#9198A1">Kotlin <tspan fill="#E6EDF3" fill-opacity="0.8">5</tspan></text><text x="86" y="0" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, monospace" font-size="12" fill="#9198A1">TypeScript <tspan fill="#E6EDF3" fill-opacity="0.8">4</tspan></text><text x="204" y="0" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, monospace" font-size="12" fill="#9198A1">Rust <tspan fill="#E6EDF3" fill-opacity="0.8">3</tspan></text><text x="274" y="0" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, monospace" font-size="12" fill="#9198A1">JavaScript <tspan fill="#E6EDF3" fill-opacity="0.8">2</tspan></text><text x="392" y="0" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, monospace" font-size="12" fill="#9198A1">HTML <tspan fill="#E6EDF3" fill-opacity="0.8">1</tspan></text><text x="462" y="0" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, monospace" font-size="12" fill="#9198A1">Python <tspan fill="#E6EDF3" fill-opacity="0.8">1</tspan></text><text x="548" y="0" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, monospace" font-size="12" fill="#9198A1">CSS <tspan fill="#E6EDF3" fill-opacity="0.8">1</tspan></text><text x="610" y="0" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, monospace" font-size="12" fill="#9198A1">Java <tspan fill="#E6EDF3" fill-opacity="0.8">1</tspan></text>
+  </g>
+</svg>
